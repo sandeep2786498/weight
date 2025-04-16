@@ -25,7 +25,6 @@ class Weight
 
     public function message()
     {
-        return "This is my Weight Message";
+        return 'This is my Weight Message';
     }
-
 }
