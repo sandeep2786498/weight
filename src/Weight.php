@@ -22,4 +22,10 @@ class Weight
     {
         return $this->kilograms * 2.2047;
     }
+
+    public function message()
+    {
+        return "This is my Weight Message";
+    }
+
 }
