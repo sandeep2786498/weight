@@ -13,6 +13,6 @@ class Weight
 
     public function toPounds()
     {
-        return $this->kilograms * 2.2047;
+        return $this->kilograms * 2.2049;
     }
 }
